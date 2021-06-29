@@ -1,4 +1,4 @@
-package com.rockthejvm
+package com.svilen
 
 object ObjectOrientation extends App {
 

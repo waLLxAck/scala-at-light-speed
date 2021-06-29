@@ -1,4 +1,4 @@
-package com.rockthejvm
+package com.svilen
 
 object Basics extends App {
 
@@ -10,7 +10,7 @@ object Basics extends App {
 
   // strings and string operations
   val aString = "I love Scala"
-  val aComposedString = "I" + " " + "love" + " " + "Scala"
+  val aComposedString = "I" + " " + "love" + " " + "Scala" + "."
   val anInterpolatedString = s"The meaning of life is $meaningOfLife"
 
   // expressions = structures that can be reduced to a value
