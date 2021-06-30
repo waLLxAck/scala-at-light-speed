@@ -79,9 +79,7 @@ object FunctionalProgramming extends App {
 
   println(alternativePairs)
 
-  /*
-  Collections
-   */
+  //Collections
 
   // lists
   val aList = List(1, 2, 3, 4, 5)
