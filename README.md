@@ -1,8 +1,9 @@
-## sbt project compiled with Scala 3
+# The training repository for the Rock the JVM Scala at Light Speed course
 
-### Usage
+This repository contains the code I wrote during  [Rock the JVM's Scala at Light Speed](https://rockthejvm.com/course/scala-at-light-speed) mini-course/video series.
 
-This is a normal sbt project. You can compile code with `sbt compile`, run it with `sbt run`, and `sbt console` will start a Scala 3 REPL.
+## How to install
 
-For more information on the sbt-dotty plugin, see the
-[scala3-example-project](https://github.com/scala/scala3-example-project/blob/main/README.md).
+- if you don't have IntelliJ IDEA installed, install it from the [official site](https://jetbrains.com)
+- either clone the repo or download as zip
+- open with IntelliJ as an SBT project
